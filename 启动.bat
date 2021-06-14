@@ -1,0 +1,1 @@
+CMD /k "cd /d C:/DAPP/lottery&&npm start"
